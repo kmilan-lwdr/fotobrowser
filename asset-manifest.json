@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fotobrowser/static/css/main.538639c0.chunk.css",
+    "main.js": "/fotobrowser/static/js/main.fe95659f.chunk.js",
+    "main.js.map": "/fotobrowser/static/js/main.fe95659f.chunk.js.map",
+    "runtime-main.js": "/fotobrowser/static/js/runtime-main.bb87e41c.js",
+    "runtime-main.js.map": "/fotobrowser/static/js/runtime-main.bb87e41c.js.map",
+    "static/js/2.8f99dc8f.chunk.js": "/fotobrowser/static/js/2.8f99dc8f.chunk.js",
+    "static/js/2.8f99dc8f.chunk.js.map": "/fotobrowser/static/js/2.8f99dc8f.chunk.js.map",
+    "index.html": "/fotobrowser/index.html",
+    "precache-manifest.7af4524c8694912caba37cb065dc5355.js": "/fotobrowser/precache-manifest.7af4524c8694912caba37cb065dc5355.js",
+    "service-worker.js": "/fotobrowser/service-worker.js",
+    "static/css/main.538639c0.chunk.css.map": "/fotobrowser/static/css/main.538639c0.chunk.css.map",
+    "static/js/2.8f99dc8f.chunk.js.LICENSE.txt": "/fotobrowser/static/js/2.8f99dc8f.chunk.js.LICENSE.txt",
+    "static/media/Styles.scss": "/fotobrowser/static/media/loader.fda1130c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb87e41c.js",
+    "static/js/2.8f99dc8f.chunk.js",
+    "static/css/main.538639c0.chunk.css",
+    "static/js/main.fe95659f.chunk.js"
+  ]
+}
