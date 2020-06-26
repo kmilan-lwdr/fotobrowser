@@ -1,0 +1,45 @@
+
+.galleryGrid {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;  
+    margin: 20px;
+    justify-content: center;
+
+    .thumbnail
+    {
+        margin: 10px;
+        width: 150px;
+        height: 150px;
+        box-shadow: 1px 1px 3px $dirt;
+        border-radius: 3px;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
+        text-decoration: none;
+        
+    }
+
+    .titleCard {
+        position: fixed;
+        margin: 10px;
+        background-color: rgba($dirt, 0.7);
+        width: 140px;
+        height: 3vh;
+        line-height: 3vh;
+        white-space: nowrap;
+        overflow: hidden;
+        text-align: center;
+        text-overflow: ellipsis;
+        padding: 5px;
+        transform: translate(0px, -80px);
+        color: $cloud;
+        box-shadow: 0px 1px 2px $dirt;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
+        text-decoration: none;
+    }
+}
+
+

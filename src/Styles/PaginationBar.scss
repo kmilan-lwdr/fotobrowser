@@ -1,0 +1,45 @@
+
+.button {
+    background-color: $bgContentColor;
+    color: $darkCyan;
+    border-radius: 3px;    
+    padding: 0.8vmin 1.2vmin;
+    margin: 1px;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    font-size: 1.2rem;
+    border-right: 1px solid $dirt;
+    border-bottom: 1px solid $dirt;
+    border-left: 1px solid $bgContentColor;
+    border-top: 1px solid $bgContentColor;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    text-decoration: none;
+    min-width: 3vmin;
+    text-align: center;
+
+    &:hover {
+        cursor: pointer;
+        color: $cloud;
+    }
+}
+
+.active {
+    //background-color: $dirt;
+    border: 1px solid $darkCyan;
+}
+
+.leftEnd {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.break {
+    padding: 0.4vmin 1.2vmin;
+    font-size: 1.2rem;
+    color: $darkCyan;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
